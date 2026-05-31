@@ -13,6 +13,9 @@ The Decoding process relies on a **Binary Tree** lookup structure and hardware t
 - __Display:__ 16x2 LCD Character Display with a PCF8574 I2C Backpack
 - __Buzzer:__ Standart buzzer on Wokwi to alert the user of an incoming message
 - __Button:__ To simulate incoming singal on Wokwi
+## Circuit Diagram
+<img width="683" height="504" alt="Screenshot from 2026-05-31 20-41-52" src="https://github.com/user-attachments/assets/b8452100-8040-4f08-aa1c-34ef2bc7f2e7" />
+
 ## How to Compile
 ### Prerequisites
 Ensure you have the AVR toolchain installed _(avr-gcc, avr-libc, and avrdude)_.
