@@ -26,4 +26,4 @@ Ensure you have the AVR toolchain installed _(avr-gcc, avr-libc, and avrdude)_.
  4) Run the __make upload__ bash command on the directory which contains both the MakeFile and the sketch.c file.
  5) __Optional:__ Run the __make clean__ bash command to clear out the temporary build files _(.elf and .hex)_ 
 ## License
-This project is open-source and free to use for educational and hobbyist purposes. Feel free to modify and expand it!
+This project is open-source and free. Feel free to modify and expand it!
