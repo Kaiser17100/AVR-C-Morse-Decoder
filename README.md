@@ -1,6 +1,6 @@
 # AVR C Morse Code Decoder
 ## Description
-An embedded AVR application written in __AVR C__ that decodes incoming electrical signals as __morse code__ and displays the decoded alphanumeric characters on a 16x2 Character LCD over the I2C (TWI) protocol using a PCF8574 adapter.
+An embedded AVR application written in __AVR C__ that decodes incoming electrical signals as __morse code__ and displays the decoded alphanumeric characters on a 16x2 Character LCD over the __I2C (TWI) protocol__ using a PCF8574 adapter.
 The Decoding process relies on a **Binary Tree** lookup structure and hardware timer intrupts
 ## Features
 - __Real Time Decoding:__ The embedded system accurately distinguishes a dash (-) and a dot (.)
