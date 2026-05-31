@@ -11,7 +11,6 @@ The Decoding process relies on a **Binary Tree** lookup structure and hardware t
 ## Used Hardware
 - __Microcontroller:__ ATmega328p
 - __Display:__ 16x2 LCD Character Display with a PCF8574 I2C Backpack
-- __Buzzer:__ A standart buzzer available on Wokwi 
 - __Button:__ To simulate incoming singal on Wokwi
 ## How to Compile
 ### Prerequisites
